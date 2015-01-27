@@ -1,0 +1,7 @@
+copied this file to the LOCAL folder of the repository after it was cloned on the computer
+
+After copying I will add this to the local repository
+
+Then I will commit it
+
+Then I will push it to the repository
